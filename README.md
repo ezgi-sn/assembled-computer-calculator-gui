@@ -1,5 +1,5 @@
-# assembled computer calculator gui
- a basic calculator written in java swing
+# Assembled Computer Calculator Gui
+A Basic Calculator Written in Java Swing
 
 In this java swing app, i keep the user information in a txt named userinformations. If the username and password are registered in the txt file, user can log in to the system and create the desired combination from the cpu, ssd, ram, graphic card menus and user can learn whether the user's budget is sufficient with the information messages that appear on the screen.
 
