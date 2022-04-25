@@ -55,7 +55,7 @@ public class LoginScreen extends JFrame {
         signUpButton.setFont(new Font("Arial", Font.PLAIN, 12));
         URL fontUrl = null;
         try {
-            fontUrl = new URL("http://www.webpagepublicity.com/free-fonts/b/Base%205.ttf");
+            fontUrl = new URL("https://www.webpagepublicity.com/free-fonts/b/Base%205.ttf");
         } catch (MalformedURLException e) {
             e.printStackTrace();
         }

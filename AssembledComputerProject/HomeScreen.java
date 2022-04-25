@@ -76,8 +76,8 @@ public class HomeScreen extends JFrame {
         URL fontUrl = null;
         URL fontUrl2 = null;
         try {
-            fontUrl = new URL("http://www.webpagepublicity.com/free-fonts/b/Base%205.ttf");
-            fontUrl2 = new URL("http://www.webpagepublicity.com/free-fonts/l/Librarian%20Regular.ttf");
+            fontUrl = new URL("https://www.webpagepublicity.com/free-fonts/b/Base%205.ttf");
+            fontUrl2 = new URL("https://www.webpagepublicity.com/free-fonts/l/Librarian%20Regular.ttf");
         } catch (MalformedURLException e) {
             e.printStackTrace();
         }

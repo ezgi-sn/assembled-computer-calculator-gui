@@ -21,7 +21,7 @@ public class SignupScreen extends JFrame {
         setTitle("Sign up");
         URL fontUrl = null;
         try {
-            fontUrl = new URL("http://www.webpagepublicity.com/free-fonts/b/Base%205.ttf");
+            fontUrl = new URL("https://www.webpagepublicity.com/free-fonts/b/Base%205.ttf");
         } catch (MalformedURLException e) {
             e.printStackTrace();
         }
